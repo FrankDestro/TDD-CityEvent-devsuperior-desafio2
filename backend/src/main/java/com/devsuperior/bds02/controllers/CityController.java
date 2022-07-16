@@ -17,6 +17,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.devsuperior.bds02.dto.CityDTO;
 import com.devsuperior.bds02.services.CityService;
 
+// resource 
 @RestController
 @RequestMapping(value = "/cities")
 public class CityController {
